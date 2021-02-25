@@ -1,0 +1,3 @@
+C:/Users/szlen/CLionProjects/2502 GITHUB ZAL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/szlen/CLionProjects/2502 GITHUB ZAL/cmake-build-debug/CMakeFiles/2502_GITHUB_ZAL.dir
+C:/Users/szlen/CLionProjects/2502 GITHUB ZAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
